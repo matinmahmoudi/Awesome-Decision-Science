@@ -418,6 +418,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 ### Datasets
 #### Forecasting
 - Godahewa, Rakshitha, et al. "Monash time series forecasting archive." arXiv preprint arXiv:2105.06643 (2021). [[Link]](https://arxiv.org/abs/2105.06643)
+- Lotsa Data. Salesforce, Hugging Face (2024). [[Link]](https://huggingface.co/datasets/Salesforce/lotsa_data)
 #### Marketing applications
 - "6 Free, High-Quality, Marketing Mix Modeling Datasets | Forecastegy." Web. 10/14/2023 [[Link]](https://forecastegy.com/posts/free-high-quality-marketing-mix-modeling-datasets)
 - Gaël Bernard and Periklis Andritsos. Datasets Simulating Customer Journeys. [[Link]](https://customer-journey.me/datasets/)
