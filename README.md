@@ -182,6 +182,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Galli, Soledad. Interpreting Machine Learning Models [[Link]](https://www.trainindata.com/p/machine-learning-interpretability)
 - Lakkaraju, Hima, et al. Explainable Artificial Intelligence: From Simple Predictors to Complex Generative Models. Harvard University, 2023. [[Link]](https://interpretable-ml-class.github.io/)
 #### Machine Learning
+- Christensen, Henrik I. Support Vector Machines - SVM & RVM. Georgia Insitute of Technology. [[Link]](https://faculty.cc.gatech.edu/~hic/CS7616/pdf/lecture9.pdf)
 - Inria. Machine learning in Python with scikit-learn. FUN, 2023. [[Link]](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
 - MLU-Explain Team. MLU-Explain. Amazon (2021). [[Link]](https://mlu-explain.github.io/)
 #### Reinforcement Learning and Control Theory 
