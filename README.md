@@ -348,7 +348,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 ### Datasets
 ### Packages
 #### Optimization
-- cvxpy. A Python-embedded modeling language for convex optimization problems. [[Link]](https://www.cvxpy.org/)
+- Diamond, Steven, and Stephen Boyd. "CVXPY: A Python-embedded modeling language for convex optimization." Journal of Machine Learning Research 17.83 (2016): 1-5. [[Link to the paper]](https://www.jmlr.org/papers/v17/15-408.html) [[Link to the package]](https://www.cvxpy.org/)
 - PyPortfolioOpt. Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity. [[Link]](https://github.com/robertmartin8/PyPortfolioOpt)
 - scikit-portfolio. A portfolio optimization tool with scikit-learn interface. Hyperparameters selection and easy plotting of efficient frontiers. [[Link]](https://scikit-portfolio.github.io/scikit-portfolio/)
 #### Sensitivity analysis
