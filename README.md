@@ -54,11 +54,12 @@ An evergrowing, professionally curated list of resources on everything decision-
   - [💻 Computer Science and Software Engineering](#-computer-science-and-software-engineering)
     - [Books](#books-2)
       - [Algorithmics, data structures, and programming languages](#algorithmics-data-structures-and-programming-languages)
+      - [Scientific programming](#scientific-programming)
       - [Software development](#software-development)
       - [Databases](#databases)
     - [Courses and lecture notes, posts](#courses-and-lecture-notes-posts-2)
       - [Algorithms](#algorithms)
-      - [Scientific programming](#scientific-programming)
+      - [Scientific programming](#scientific-programming-1)
       - [Software engineering](#software-engineering)
     - [Packages](#packages-2)
       - [Python](#python-2)
@@ -281,6 +282,8 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Johnston, Nathaniel, and Dave Greene. Conway's Game of Life: Mathematics and Construction. Self-published, 2022. [[Link]](https://conwaylife.com/book/)
 - Miller, Brad, and David Ranum. Problem-solving with algorithms and data structures. University of Auckland, 2013. [[Link]](https://dlib.hust.edu.vn/bitstream/HUST/17856/1/OER000000244.pdf) [[Website]](https://www.openbookproject.net/books/pythonds/index.html)
 - Nipkow, Tobias. "Functional Data Structures and Algorithms A Proof Assistant Approach." (2023). [[Link]](https://functional-algorithms-verified.org/)
+#### Scientific programming
+- Blondel, Mathieu, and Vincent Roulet. "The Elements of Differentiable Programming." arXiv preprint arXiv:2403.14606 (2024). [[Link]](https://arxiv.org/abs/2403.14606)
 #### Software development
 - Chacon, Scott, and Ben Straub. Pro git. Springer Nature, 2014. [[Link]](https://git-scm.com/book/en/v2)
 #### Databases
