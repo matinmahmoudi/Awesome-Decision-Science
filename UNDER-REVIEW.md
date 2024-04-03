@@ -12,6 +12,7 @@ The following resources are being reviewed, there is no warranty about their qua
 - de Gooijer, Stijn. Poetry Guide: Guide on how to use Poetry for your projects. [[Link]](https://github.com/stinodego/poetry-guide)
 - Delatte, Hugo, and Carlo Nicolini. Skfolio. [[Link]](https://github.com/skfolio/skfolio)
 - diffstatic. A structural diff tool that understands syntax. [[Link]](https://difftastic.wilfred.me.uk/)
+- DuckDB. DuckDB is an in-process SQL OLAP Database Management System. [[Link]](https://github.com/duckdb/duckdb)
 - Feng, Ling, et al. "Linking agent-based models and stochastic models of financial markets." Proceedings of the National Academy of Sciences 109.22 (2012): 8388-8393. [[Link]](https://www.pnas.org/doi/full/10.1073/pnas.1205013109)
 - Fugue. A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites. [[Link]](https://github.com/fugue-project/fugue)
 - Keribin, Christine, Gilles Celeux, and Valérie Robert. "The latent block model: a useful model for high dimensional data." ISI 2017-61st world statistics congress. 2017. [[Link]](https://inria.hal.science/hal-01658589/)
@@ -28,6 +29,7 @@ The following resources are being reviewed, there is no warranty about their qua
 - Parasurama, Prasanna. Why Overlapping Confidence Intervals mean Nothing about Statistical Significance. Towards Data Science, 2017. [[Link]](https://towardsdatascience.com/why-overlapping-confidence-intervals-mean-nothing-about-statistical-significance-48360559900a)
 - Patacchiola, Massimiliano. Evidence, KL-divergence, and ELBO. root@mpatacchiola:~$, 2021. [[Link]](https://mpatacchiola.github.io/blog/2021/01/25/intro-variational-inference.html)
 - Pham, Tung, Trung Le, and Hang Dang. "Scalable support vector clustering using budget." arXiv preprint arXiv:1709.06444 (2017).
+- SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models. Princeton NLP. [[Link]](https://github.com/princeton-nlp/SWE-agent)
 - Pyrcz, Michael J. PythonNumericalDemos: Educational Data Science Demonstrations Repository. [[Link]](https://github.com/GeostatsGuy/PythonNumericalDemos)
 - Qlib. An AI-oriented quantitative investment platform by Microsoft. [[Link]](https://github.com/microsoft/qlib)
 - Recht, Ben. From Intervals to Bands. Arg min, 2024. [[Link]](https://www.argmin.net/p/from-intervals-to-bands)
