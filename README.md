@@ -37,6 +37,8 @@ An evergrowing, professionally curated list of resources on everything decision-
         - [Imbalanced data problems](#imbalanced-data-problems)
         - [Training ML models](#training-ml-models)
     - [Posts and threads](#posts-and-threads)
+      - [Explainable AI (XAI)](#explainable-ai-xai)
+      - [Imbalanced data problems](#imbalanced-data-problems-1)
     - [Talks, conferences, and videos](#talks-conferences-and-videos)
   - [📊 Business Intelligence, Data Visualization, Communicating and Reporting](#-business-intelligence-data-visualization-communicating-and-reporting)
     - [Books](#books-1)
@@ -127,6 +129,7 @@ An evergrowing, professionally curated list of resources on everything decision-
         - [Time Series](#time-series-1)
       - [R](#r)
     - [Papers](#papers-5)
+      - [Clustering](#clustering-1)
       - [Probabilistic Graphical Models and associated optimization techniques](#probabilistic-graphical-models-and-associated-optimization-techniques)
       - [Statistics](#statistics-1)
         - [Bayesian Statistics](#bayesian-statistics-1)
@@ -135,6 +138,7 @@ An evergrowing, professionally curated list of resources on everything decision-
         - [Statistical hypothesis testing (NHST)](#statistical-hypothesis-testing-nhst)
     - [Posts and threads](#posts-and-threads-5)
       - [Bayesian Statistics](#bayesian-statistics-2)
+      - [General topics](#general-topics)
       - [Variable selection / Feature selection](#variable-selection--feature-selection)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-5)
       - [Bayesian Statistics](#bayesian-statistics-3)
@@ -191,6 +195,7 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Elad Hazan, Karan Singh. Introduction to Online Nonstochastic Control. [[Link]](https://arxiv.org/abs/2211.09619)
 ### Datasets
 - Andreas Luttens, et al. Large-scale Docking Datasets for Machine Learning. 2, Zenodo, 8 May 2023. [[Link]](https://zenodo.org/records/7953917)
+- Randal S. Olson, William La Cava, Patryk Orzechowski, Ryan J. Urbanowicz, and Jason H. Moore (2017). PMLB: a large benchmark suite for machine learning evaluation and comparison. BioData Mining 10, page 36. [[Paper]](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0154-4) [[Code]](https://github.com/EpistasisLab/pmlb)
 ### Packages
 #### Data loading
 - mlx-data. Efficient framework-agnostic data loading. Apple, 2023. [[Link]](https://github.com/ml-explore/mlx-data)
@@ -198,6 +203,8 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Alibi explain. Open-source interpretability library supporting black box, white box, global and local interpratability methods. [[Link]](https://docs.seldon.io/projects/alibi)
 - Dalex. Responsible Machine Learning in Python. [[Link]](https://dalex.drwhy.ai/python/)
 - Scikit-explain. User-friendly Python module for machine learning explainability with a comprehensive toolset of interpretability methods. [[Link]](https://scikit-explain.readthedocs.io/)
+- Shapash. Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models. MAIF, 2021.[[Link]](https://maif.github.io/shapash/)
+- Sudjianto, Agus, et al. "PiML Toolbox for Interpretable Machine Learning Model Development and Validation." arXiv preprint arXiv:2305.04214 
 #### Feature Engineering
 - Feature_engine. Feature engineering package with sklearn like functionality. [[Link]](https://feature-engine.trainindata.com/en/latest/)
 #### Hyperparameter optimization
@@ -233,8 +240,10 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Fontana, Matteo, Gianluca Zeni, and Simone Vantini. "Conformal prediction: a unified review of theory and new challenges." arXiv preprint arXiv:2005.07972 (2020). [[Link]](https://arxiv.org/abs/2005.07972)
 - Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ##### Explainable AI
-- Shapash. Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models. MAIF, 2021.[[Link]](https://maif.github.io/shapash/)
-- Sudjianto, Agus, et al. "PiML Toolbox for Interpretable Machine Learning Model Development and Validation." arXiv preprint arXiv:2305.04214 (2023).
+- Bilodeau, Blair, et al. "Impossibility theorems for feature attribution." Proceedings of the National Academy of Sciences 121.2 (2024): e2304406120. [[Link]](https://arxiv.org/abs/2212.11870)
+- Ibrahim Amoukou, Salim. Trustworthy machine learning: explainability and distribution-free uncertainty quantification. Diss. université Paris-Saclay, 2023. [[Link]](https://www.biblio.univ-evry.fr/theses/2023/2023UPASM034.pdf)
+- Huang, Xuanxiang, and Joao Marques-Silva. "The inadequacy of Shapley values for explainability." arXiv preprint arXiv:2302.08160 (2023).
+(2023). [[Link]](https://arxiv.org/abs/2302.08160)
 ##### Fuzzy sets
 - Khuat, Thanh Tung, Dymitr Ruta, and Bogdan Gabrys. "Hyperbox-based machine learning algorithms: a comprehensive survey." Soft Computing 25.2 (2021): 1325-1363. [[Link]](https://arxiv.org/abs/1901.11303)
 ##### Imbalanced data problems
@@ -243,6 +252,11 @@ An evergrowing, professionally curated list of resources on everything decision-
 ##### Training ML models
 - Mirzasoleiman, Baharan, Jeff Bilmes, and Jure Leskovec. "Coresets for data-efficient training of machine learning models." International Conference on Machine Learning. PMLR, 2020. [[Link]](https://proceedings.mlr.press/v119/mirzasoleiman20a.html)
 ### Posts and threads
+#### Explainable AI (XAI)
+- Of Models and Meanings. SHAP is the Blockchain of xAI. Of Models and Meanings, 2022. [[Link]](https://modelmeanings.wordpress.com/2022/05/12/shap-is-the-blockchain-of-xai/)
+- Of Models and Meanings. What You Could Do with the Shapley Computation. Of Models and Meanings, 2022. [[Link]](https://modelmeanings.wordpress.com/2022/09/04/what-you-could-do-with-the-shapley-computation/)
+#### Imbalanced data problems
+- Mougan, Carl. Why SMOTE is not used in prize-winning Kaggle solutions?. Data Science, 2021. [[Link]](https://datascience.stackexchange.com/questions/106461/why-smote-is-not-used-in-prize-winning-kaggle-solutions)
 ### Talks, conferences, and videos
 - Dieng, Adji B. Learning From Data: The Two Cultures. Association for Computing Machinery, 2021. [[Link]](https://youtu.be/JJnTLNoNTME?si=uiuHKCcPFhF7sz6h)
 - Rich, DJ. Mutual Information. True Theta LLC, 2020. [[Link]](https://www.youtube.com/@Mutual_Information)
@@ -445,6 +459,11 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Ross, Gordon J., and Dean Markwick. "dirichletprocess: An R package for fitting complex Bayesian nonparametric models." (2018). [[Link]](https://cloud.r-project.org/web/packages/dirichletprocess/vignettes/dirichletprocess.pdf)
 - van Buuren, S., and K. Groothuis-Oudshoorn. “Mice: Multivariate Imputation by Chained Equations in R”. Journal of Statistical Software, vol. 45, no. 3, Dec. 2011, pp. 1-67, doi:10.18637/jss.v045.i03. [[Paper]](https://www.jstatsoft.org/article/view/v045i03)  [[Package]](https://cran.r-project.org/web/packages/mice/index.html)
 ### Papers
+#### Clustering
+- Keribin, Christine, Gilles Celeux, and Valérie Robert. "The latent block model: a useful model for high dimensional data." ISI 2017-61st world statistics congress. 2017. [[Link]](https://inria.hal.science/hal-01658589/)
+- Pham, Tung, et al. "Fast support vector clustering." Vietnam Journal of Computer Science 4 (2017): 13-21. [[Link]](https://link.springer.com/article/10.1007/s40595-016-0068-y)
+- Pham, Tung, Trung Le, and Hang Dang. "Scalable support vector clustering using budget." arXiv preprint arXiv:1709.06444 (2017).
+
 #### Probabilistic Graphical Models and associated optimization techniques
 - Blei, David M. Build, compute, critique, repeat: Data analysis with latent variable models. Annual Review of Statistics and Its Application 1 (2014): 203-232. [[Link]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-022513-115657)
 - Blei, David M., Alp Kucukelbir, and Jon D. McAuliffe. "Variational inference: A review for statisticians." Journal of the American Statistical Association 112.518 (2017): 859-877. [[Link]](https://arxiv.org/pdf/1601.00670)
@@ -468,8 +487,9 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Lumley, Thomas et al. “The importance of the normality assumption in large public health data sets.” Annual review of public health vol. 23 (2002): 151-69. doi:10.1146/annurev.publhealth.23.100901.140546 [[Link]](https://pubmed.ncbi.nlm.nih.gov/11910059/)
 - Mohd Razali, Nornadiah, and Bee Yap. ‘Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests’. J. Stat. Model. Analytics, vol. 2, 01 2011. [[Link]](https://www.researchgate.net/publication/267205556_Power_Comparisons_of_Shapiro-Wilk_Kolmogorov-Smirnov_Lilliefors_and_Anderson-Darling_Tests)
 - Morey, Richard D et al. “The fallacy of placing confidence in confidence intervals.” Psychonomic bulletin & review vol. 23,1 (2016): 103-23. doi:10.3758/s13423-015-0947-8 [[Link]](https://pubmed.ncbi.nlm.nih.gov/26450628/)
+- Olzsewski, Adrian. Mann-Whitney (Wilcoxon) and Kruskal-Wallis FAIL to compare medians in general. Quantile regression should be used to compare medians instead. [[Link]](https://gist.github.com/adrianolszewski/2cec75678e1183e4703589bfd22fa8b2)
 - Olszewski, Adrian. On the p-values - links library significance ditching. Adrian Olszewski, 2022. [[Link]](https://docs.google.com/document/d/16KXpFW_nvF9l0eNlc56c-yY-B9VziPGWEkyDjibvwp8/edit)
-- Pernet, Cyril. “Null hypothesis significance testing: a short tutorial.” F1000Research vol. 4 621. 25 Aug. 2015, doi:10.12688/f1000research.6963.3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635437/)
+- Olzsewski, Adrian. Testing hypotheses through statistical models opens a universe of new possibilities. Learn how to improve your daily work with this approach. [[Link]](https://github.com/adrianolszewski/model-based-testing-hypotheses)Pernet, Cyril. “Null hypothesis significance testing: a short tutorial.” F1000Research vol. 4 621. 25 Aug. 2015, doi:10.12688/f1000research.6963.3 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635437/)
 - Serdar, Ceyhan Ceran et al. “Sample size, power and effect size revisited: simplified and practical approaches in pre-clinical, clinical and laboratory studies.” Biochemia medica vol. 31,1 (2021): 010502. doi:10.11613/BM.2021.010502 [[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745163/)
 - The American Statistician, Volume 73, Issue sup1 (2019) [[Link]](https://www.tandfonline.com/toc/utas20/73/sup1)
 - Verhagen, Arianne P., et al. ‘Is the p Value Really so Significant?*’. Australian Journal of Physiotherapy, vol. 50, no. 4, 2004, pp. 261–262. [[Link]](https://www.sciencedirect.com/science/article/pii/S0004951414601227)
@@ -478,6 +498,8 @@ An evergrowing, professionally curated list of resources on everything decision-
 - Camara-Escudero, Mauro. Variational Auto-Encoders and the Expectation-Maximization Algorithm. Mauro Camara-Escudero, 2020. [[Link]](https://maurocamaraescudero.netlify.app/post/variational-auto-encoders-and-the-expectation-maximization-algorithm/)
 - Patacchiola, Massimiliano. Evidence, KL-divergence, and ELBO. Massimiliano Patacchiola, 2021. [[Link]](https://mpatacchiola.github.io/blog/2021/01/25/intro-variational-inference.html)
 - Yao, Yuling. Bayes is guaranteed to overfit, for any model, any prior, and every data point. Yuling Yao, 2023. [[Link]](https://www.yulingyao.com/blog/2023/overfit/)
+#### General topics
+- Harrell, Frank. Classification vs. Prediction. Statistical Thinking, 2017. [[Link]](https://www.fharrell.com/post/classification/)
 #### Variable selection / Feature selection
 - gung Reinstate Monica (https://stats.stackexchange.com/users/7290/gung-reinstate monica). Algorithms for Automatic Model Selection. Cross Validated, https://stats.stackexchange.com/q/20856. [[Link]](https://stats.stackexchange.com/a/20856)
 - Shtoff, Alex. “Are polynomial features the root of all evil?". Alex Shtoff, 2024. [[Link]](https://alexshtf.github.io/2024/01/21/Bernstein.html)
