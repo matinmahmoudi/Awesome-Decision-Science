@@ -1,8 +1,6 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 An evergrowing, professionally curated list of resources on everything decision-making: videos, tutorials, books, papers, theses, articles, datasets, and open-source libraries.
 
-📢Need help with your scientific computing? We are statisticians who know much about computing and computer scientists who know much about statistics. [We'd be happy to help!](https://www.cognitive-works.com)
-
 🍔Click on the hamburger next to the file name for a better browsing experience.
 
 - [Awesome Decision Science ](#awesome-decision-science-)
