@@ -236,7 +236,6 @@ An evergrowing, professionally curated list of resources on everything decision-
 ##### Conformal Prediction
 - Angelopoulos, Anastasios N., and Stephen Bates. "A gentle introduction to conformal prediction and distribution-free uncertainty quantification." arXiv preprint arXiv:2107.07511 (2021). [[Link]](https://arxiv.org/abs/2107.07511)
 - Fontana, Matteo, Gianluca Zeni, and Simone Vantini. "Conformal prediction: a unified review of theory and new challenges." arXiv preprint arXiv:2005.07972 (2020). [[Link]](https://arxiv.org/abs/2005.07972)
-- Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. [[Link]](https://github.com/valeman/awesome-conformal-prediction)
 ##### Explainable AI
 - Bilodeau, Blair, et al. "Impossibility theorems for feature attribution." Proceedings of the National Academy of Sciences 121.2 (2024): e2304406120. [[Link]](https://arxiv.org/abs/2212.11870)
 - Ibrahim Amoukou, Salim. Trustworthy machine learning: explainability and distribution-free uncertainty quantification. Diss. université Paris-Saclay, 2023. [[Link]](https://www.biblio.univ-evry.fr/theses/2023/2023UPASM034.pdf)
