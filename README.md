@@ -1,7 +1,8 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-An evergrowing, professionally curated list of resources on everything decision-making: videos, tutorials, books, papers, theses, articles, datasets, and open-source libraries.
 
-🍔Click on the hamburger next to the file name for a better browsing experience.
+Une liste croissante de ressources sur tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source.
+
+Cliquez sur le menu hamburger 🍔 pour naviguer plus facilement.
 
 - [Awesome Decision Science ](#awesome-decision-science-)
   - [🤖 Artificial Intelligence, Computational Intelligence, and Machine Learning](#-artificial-intelligence-computational-intelligence-and-machine-learning)
