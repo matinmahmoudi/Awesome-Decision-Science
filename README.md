@@ -49,7 +49,7 @@ Cliquez sur le menu hamburger 🍔 pour naviguer plus facilement.
       - [Data Visualization and Reporting](#data-visualization-and-reporting)
         - [Julia](#julia)
           - [Python](#python-1)
-  - [Papers](#papers-1)
+	- [Papers](#papers-1)
     - [Posts and threads](#posts-and-threads-1)
     - [Talks, conferences, and videos](#talks-conferences-and-videos-1)
   - [💻 Computer Science and Software Engineering](#-computer-science-and-software-engineering)
