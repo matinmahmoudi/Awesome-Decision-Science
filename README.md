@@ -1,6 +1,6 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Une liste croissante de ressources sur tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source.
+Une liste de ressources sur tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source.
 
 Cliquez sur le menu hamburger 🍔 pour naviguer plus facilement.
 
