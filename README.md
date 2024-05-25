@@ -1,8 +1,9 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Une liste de ressources sur tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source.
+Une liste de ressources sur tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source. Cliquez sur le menu hamburger 🍔 pour naviguer plus facilement.
 
-Cliquez sur le menu hamburger 🍔 pour naviguer plus facilement.
+## À propos
+Moi c'est Miguel, j'aide les cabinets de conseil, les établissements bancaires et d'assurance à contourner les risques et les biais grâce à mes solutions Data & IA compliantes et fiabilisées. Je vous aide à gérer vos risques, à démystifier la technique et à la prendre en main grâce à ma pédagogie et à mes compétences avancées en Data Science & IA 🤖 en Sciences cognitives 🧠 et en Droit ⚖️. [☎️ On en discute ?](https://meet.brevo.com/mpalenciaolivar)
 
 - [Awesome Decision Science ](#awesome-decision-science-)
   - [🤖 Artificial Intelligence, Computational Intelligence, and Machine Learning](#-artificial-intelligence-computational-intelligence-and-machine-learning)
