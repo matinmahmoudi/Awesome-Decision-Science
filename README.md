@@ -1,9 +1,11 @@
 # Awesome Decision Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Une liste de ressources sur tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source. Cliquez sur le menu hamburger 🍔 pour naviguer plus facilement.
+Une liste de ressources triées sur le volet à propos de tout ce qui touche à la prise de décision : vidéos, tutoriels, livres, documents, thèses, articles, datasets et libs open source. Cliquez sur le menu hamburger 🍔 pour naviguer plus facilement.
+
+PS : la quasi-totalité des ressources est dispo gratuitement et légalement. Je ne touche rien sur les ventes des rares ouvrages, etc. payants, ils sont simplement référencés car j'estime que ce sont des ressources de valeur.
 
 ## À propos
-Moi c'est Miguel, j'aide les cabinets de conseil, les établissements bancaires et d'assurance à contourner les risques et les biais grâce à mes solutions Data & IA compliantes et fiabilisées. Je vous aide à gérer vos risques, à démystifier la technique et à la prendre en main grâce à ma pédagogie et à mes compétences avancées en Data Science & IA 🤖 en Sciences cognitives 🧠 et en Droit ⚖️. [☎️ On en discute ?](https://meet.brevo.com/mpalenciaolivar)
+Moi c'est Miguel 👋 J'aide les leaders B2B (conseil, banque, assurance) en transformant la prise de décision en science exacte ! C'est VOTRE expertise qui guide la Tech, pas l'inverse ! Des entreprises comme Accuracy et le Crédit Agricole font déjà des choix plus sûrs grâce à mes méthodes de prévision financière. [☎️ Et si on discutait de comment valoriser votre patrimoine Data ?](https://meet.brevo.com/mpalenciaolivar)
 
 - [Awesome Decision Science ](#awesome-decision-science-)
   - [🤖 Artificial Intelligence, Computational Intelligence, and Machine Learning](#-artificial-intelligence-computational-intelligence-and-machine-learning)
