@@ -7,6 +7,7 @@ PS : la quasi-totalité des ressources est dispo gratuitement et légalement. Je
 ## À propos
 Moi c'est Miguel 👋 J'aide les leaders B2B (conseil, banque, assurance) en transformant la prise de décision en science exacte ! C'est VOTRE expertise qui guide la Tech, pas l'inverse ! Des entreprises comme Accuracy et le Crédit Agricole font déjà des choix plus sûrs grâce à mes méthodes de prévision financière. [☎️ Et si on discutait de comment valoriser votre patrimoine Data ?](https://meet.brevo.com/mpalenciaolivar)
 
+## Sommaire
 - [Awesome Decision Science ](#awesome-decision-science-)
   - [🤖 Artificial Intelligence, Computational Intelligence, and Machine Learning](#-artificial-intelligence-computational-intelligence-and-machine-learning)
     - [Books](#books)
