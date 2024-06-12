@@ -4,7 +4,7 @@ Une liste de ressources triées sur le volet à propos de tout ce qui touche à 
 
 👍 Vous aimez ? Un like, un partage aiderait grandement le projet ! Partageons les connaissances !
 
-⚠️ Disclaimer : la quasi-totalité des ressources est dispo gratuitement et légalement. Je ne touche rien sur les ventes des rares ressources payantes, qui sont simplement référencés car j'estime que ce sont des ressources de valeur.
+⚠️ Disclaimer : la quasi-totalité des ressources est dispo gratuitement et légalement. Je ne touche rien sur les ventes des rares ressources payantes, qui sont simplement référencées car j'estime que ce sont des ressources de valeur.
 
 ## À propos
 Moi c'est Miguel 👋 J'aide les leaders B2B (conseil, banque, assurance) en transformant la prise de décision en science exacte ! C'est VOTRE expertise qui guide la Tech, pas l'inverse ! Des entreprises comme Accuracy et le Crédit Agricole font déjà des choix plus sûrs grâce à mes méthodes de prévision financière. [☎️ Et si on discutait de comment valoriser votre patrimoine Data ?](https://meet.brevo.com/mpalenciaolivar)
